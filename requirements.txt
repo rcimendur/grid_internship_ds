@@ -2,3 +2,4 @@ numpy==2.5.3
 pandas==3.0.6
 seaborn==0.13.2
 matplotlib==3.11.2
+Pandas-datareader==0.11.1
